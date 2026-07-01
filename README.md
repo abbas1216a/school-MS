@@ -61,11 +61,7 @@ Your website URL will be:
 https://abbas1216a.github.io/school-MS/
 ```
 
-Example:
 
-```
-https://abbas1216a.github.io/school-MS/
-```
 
 ## Author
 
